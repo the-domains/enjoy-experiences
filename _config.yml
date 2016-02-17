@@ -1,0 +1,28 @@
+name: Enjoy Experiences
+favicon: null
+layout_spectrum: 0.8713720559608191
+typography_spectrum: 0.6902213210705668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5611094606574625
+  lightness: 0.10316377645358443
+  saturation: 0.005702166352421045
+  rhythmicContrast: 0.030065295984968543
+purpose: []
