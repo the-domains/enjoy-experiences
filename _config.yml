@@ -1,7 +1,7 @@
 name: Enjoy Experiences
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75487
+layout_spectrum: 0.26487
+typography_spectrum: 0.74225
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#b50000'
     - '#444b4c'
     - '#cb8425'
-  brandStrength: 0.5611094606574625
+  brandStrength: 0.75
   lightness: 0.10316377645358443
   saturation: 0.005702166352421045
   rhythmicContrast: 0.75
